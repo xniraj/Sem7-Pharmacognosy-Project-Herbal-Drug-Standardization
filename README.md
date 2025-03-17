@@ -35,3 +35,6 @@ This repository contains the research work and final report for the Pharmacognos
 - World Health Organization (WHO) guidelines for herbal medicine.  
 - AYUSH and PCIM&H standards for traditional Indian medicine.  
 - Peer-reviewed journals on pharmacognosy and phytochemistry.  
+
+### **License**  
+This project is licensed under the [MIT License](LICENSE).

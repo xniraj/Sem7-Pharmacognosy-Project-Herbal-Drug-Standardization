@@ -4,6 +4,7 @@ A comprehensive project on Herbal Drug Standardization conducted during Semester
 
 
 **Semester 7 Project | B. Pharmacy | Principal K.M. Kundnani College of Pharmacy**  
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ### **Introduction**  
 This repository contains the research work and final report for the Pharmacognosy project conducted during Semester 7. The project focuses on **Herbal Drug Standardization**, addressing challenges such as variability in plant sources, regulatory gaps, and quality control. The work includes practical experiments like phytochemical screening, extraction methods (Soxhlet, TLC, HPLC), and formulation of herbal syrup.
@@ -37,4 +38,4 @@ This repository contains the research work and final report for the Pharmacognos
 - Peer-reviewed journals on pharmacognosy and phytochemistry.  
 
 ### **License**  
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).  
